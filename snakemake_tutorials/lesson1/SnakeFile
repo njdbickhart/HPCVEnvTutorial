@@ -1,0 +1,11 @@
+rule asynchronos1:
+    shell:
+        """
+        perl print_numbers.pl 
+        """
+
+rule asynchronos2:
+    shell:
+        """
+        perl print_modulo.pl
+        """
