@@ -8,4 +8,6 @@ dependencies:
  - fastqc
  - minimap2
  - pandas
+ - gnuplot
+ - samtools
  
